@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-```
+
 ![image](https://github.com/Saravanan2512/EXNO-6-DS/assets/144979117/bb8100bf-9bfb-4fd7-a441-8bbeac1b5a86)
 ![image](https://github.com/Saravanan2512/EXNO-6-DS/assets/144979117/c46fcaf4-9d3a-46c4-81b3-3c124581b4ba)
 ![image](https://github.com/Saravanan2512/EXNO-6-DS/assets/144979117/962c9647-d969-45e2-ab56-473b0b0a5a7e)
@@ -51,7 +51,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 
-```
+
 
 # Result:
 Thus, all the data visualization techniques of seaborn has been implemented.
